@@ -1,0 +1,3 @@
+POST localhost:3200/user/signin
+{"email" :"anaomart@gmail.com",
+    "password":12}
